@@ -1,5 +1,7 @@
 
-% dynamic and control of an AUV
+% 2D dynamics and control of an AUV subjected to a uniform marine current
+
+% A. Nitti, Polytechnic University of Bari (2024)
 
 clc
 clear 
