@@ -5,3 +5,4 @@ A torphedo-shaped AUV is simulated to follow a sequence of target locations and 
 
 - Jorgensen, L. H. Prediction of static aerodynamic characteristics for spaceshuttle-like and other bodies at angles of attack from 0 deg to 180 deg. Tech. Rep. (1973).
 - Yuh, J. Modeling and control of underwater robotic vehicles. IEEE Transactions on Systems, man, and Cybernetics 20.6 (1990): 1475-1483.
+- Newman, John Nicholas. Marine hydrodynamics. The MIT press, 2018.
